@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f4109d6747d9b314fa8c11b4e2d087a4
+timeCreated: 1501491311
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Objects/Pushables/Pushable.cs
+  uploadId: 518792

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3e71affbe222bd547ab7959462d8ea0d
+timeCreated: 1499789806
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/Editor/RuleTileEditor.cs
+  uploadId: 518792

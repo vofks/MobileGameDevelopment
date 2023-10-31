@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5e6d86c7f9ec609449c933ab811eb779
+timeCreated: 1508426118
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Materials/Enemies/GunnerBeamEffect2.mat
+  uploadId: 518792

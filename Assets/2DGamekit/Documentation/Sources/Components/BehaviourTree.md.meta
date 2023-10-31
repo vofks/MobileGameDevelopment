@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e066e397b35f3fe419a93abb8cb6cd7a
+timeCreated: 1513696667
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Documentation/Sources/Components/BehaviourTree.md
+  uploadId: 518792

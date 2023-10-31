@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 995cd11e2448bbd458326abc46d8a8a2
+timeCreated: 1512561347
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Documentation/Sources/Components/DataPersistence.md
+  uploadId: 518792

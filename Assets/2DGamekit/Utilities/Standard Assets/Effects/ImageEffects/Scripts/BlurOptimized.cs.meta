@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7fc6bde01469c7b4badee5362f191d96
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blurShader: {fileID: 4800000, guid: f9d5fa183cd6b45eeb1491f74863cd91, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs
+  uploadId: 518792

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 91987b6930b81284da32d56cf5981cb5
+timeCreated: 1502898848
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/Shaders/UnityStandardParticles.cginc
+  uploadId: 518792

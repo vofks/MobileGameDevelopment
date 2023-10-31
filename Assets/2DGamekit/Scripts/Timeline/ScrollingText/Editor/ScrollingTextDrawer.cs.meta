@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 59bb5b2c27d2a7c45a51aad334ab3e32
+timeCreated: 1504110308
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Timeline/ScrollingText/Editor/ScrollingTextDrawer.cs
+  uploadId: 518792

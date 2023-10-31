@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 23691b4749982a741b871407cadeefaf
+timeCreated: 1501678137
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Core/ObjectPool.cs
+  uploadId: 518792

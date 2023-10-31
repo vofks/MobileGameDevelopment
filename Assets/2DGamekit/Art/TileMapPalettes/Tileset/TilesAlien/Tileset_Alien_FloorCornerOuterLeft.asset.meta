@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 26325118d22f4684986fc542555bd79e
+timeCreated: 1504619468
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/TileMapPalettes/Tileset/TilesAlien/Tileset_Alien_FloorCornerOuterLeft.asset
+  uploadId: 518792

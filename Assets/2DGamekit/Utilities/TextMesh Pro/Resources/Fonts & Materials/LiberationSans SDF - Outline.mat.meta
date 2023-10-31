@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 79459efec17a4d00a321bdcc27bbc385
+timeCreated: 1484172856
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+    SDF - Outline.mat
+  uploadId: 518792

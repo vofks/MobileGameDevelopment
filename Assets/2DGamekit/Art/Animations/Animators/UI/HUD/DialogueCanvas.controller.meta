@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6f524e8f0bbd35744b47adbf527eac14
+timeCreated: 1504794804
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/Animators/UI/HUD/DialogueCanvas.controller
+  uploadId: 518792

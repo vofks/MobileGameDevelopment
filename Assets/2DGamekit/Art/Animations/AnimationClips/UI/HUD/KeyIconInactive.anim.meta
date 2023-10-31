@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7dd904ef5d5f81f4986308c30fe29cd0
+timeCreated: 1516206456
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/UI/HUD/KeyIconInactive.anim
+  uploadId: 518792

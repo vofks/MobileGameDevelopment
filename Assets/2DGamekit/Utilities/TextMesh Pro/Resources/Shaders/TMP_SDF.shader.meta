@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68e6db2ebdc24f95958faec2be5558d6
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+  uploadId: 518792

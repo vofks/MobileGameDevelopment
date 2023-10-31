@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 20f916c2dfd5f3b47bc8cf6ae8d8452e
+timeCreated: 1501689693
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Character/MonoBehaviours/Bullet.cs
+  uploadId: 518792

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dce60260750d2dd4d8e9702a87a19918
+timeCreated: 1505733759
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Character/StateMachineBehaviours/Enemies/ChomperAttackSMB.cs
+  uploadId: 518792

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 679a66e35d41fea41b1c02cb4c582641
+timeCreated: 1516715533
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/Animators/UI/Menu/GameOverText.controller
+  uploadId: 518792

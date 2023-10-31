@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c39ac717924363d44be9b1c0d30ad230
+timeCreated: 1510841325
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Gunner/GunnerCutscene/GunnerCutsceneDoor.anim
+  uploadId: 518792

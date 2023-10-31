@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a771c33d585b2304d98a8179839aa3b6
+timeCreated: 1508320557
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/SceneManagement/Editor/DataPersisterEditor.cs
+  uploadId: 518792

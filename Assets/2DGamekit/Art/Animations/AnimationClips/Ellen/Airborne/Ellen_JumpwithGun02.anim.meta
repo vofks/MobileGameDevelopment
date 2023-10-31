@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eabff08f8fdc7a44ab661ac219d5e293
+timeCreated: 1509361743
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Ellen/Airborne/Ellen_JumpwithGun02.anim
+  uploadId: 518792

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dede3b3b9e3088a48855c7a1913674e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scenes/UniversalRenderPipelineAsset2D_Renderer.asset
+  uploadId: 518792

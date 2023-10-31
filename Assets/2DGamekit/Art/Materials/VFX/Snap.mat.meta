@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de328d09c5cef004693237594faf4520
+timeCreated: 1438263595
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Materials/VFX/Snap.mat
+  uploadId: 518792

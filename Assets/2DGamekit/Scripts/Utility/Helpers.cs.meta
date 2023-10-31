@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 759ba4f260faada4fa4b9b2b050372d6
+timeCreated: 1503398434
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Utility/Helpers.cs
+  uploadId: 518792

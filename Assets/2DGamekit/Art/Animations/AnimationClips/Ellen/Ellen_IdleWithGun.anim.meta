@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ca6e4bcebc2e35348ac1126561826cef
+timeCreated: 1504776439
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Ellen/Ellen_IdleWithGun.anim
+  uploadId: 518792

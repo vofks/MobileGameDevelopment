@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7f762f0ca0341346b2cdf4839c71804
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scenes/Zone2Settings.lighting
+  uploadId: 518792

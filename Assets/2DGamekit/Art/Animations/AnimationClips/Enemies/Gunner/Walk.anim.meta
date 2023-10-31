@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bbee9800268bb1d40a1955930c6777f9
+timeCreated: 1506335857
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Gunner/Walk.anim
+  uploadId: 518792

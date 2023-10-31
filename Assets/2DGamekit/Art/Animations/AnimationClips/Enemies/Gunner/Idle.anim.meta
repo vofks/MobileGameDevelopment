@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d608b8251847ef34a9e16d4ed131b932
+timeCreated: 1507727040
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Gunner/Idle.anim
+  uploadId: 518792

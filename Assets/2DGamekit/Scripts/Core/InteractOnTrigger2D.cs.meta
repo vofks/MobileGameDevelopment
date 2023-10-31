@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1ede24c4245f11547942614c14a3a23b
+timeCreated: 1501668589
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Core/InteractOnTrigger2D.cs
+  uploadId: 518792

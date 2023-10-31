@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 828ab588c2d0159468fbefcc1189616f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/TileMapPalettes/Tileset/TilesetGamekit.prefab
+  uploadId: 518792

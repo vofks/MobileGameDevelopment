@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3a492dd3fad5930408af4662b7da6f80
+timeCreated: 1501165441
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Prefabs/VFX/Environment/LightShafts.prefab
+  uploadId: 518792

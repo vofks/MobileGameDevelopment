@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ea43622560fd1ad4e9aa5f3d591fbf22
+timeCreated: 1505832327
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/SceneManagement/SceneNameAttribute.cs
+  uploadId: 518792

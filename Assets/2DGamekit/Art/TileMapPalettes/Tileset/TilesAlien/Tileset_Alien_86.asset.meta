@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 94fc92ac5c4f8fc4f9bc8f870d0ce9cd
+timeCreated: 1504619466
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/TileMapPalettes/Tileset/TilesAlien/Tileset_Alien_86.asset
+  uploadId: 518792

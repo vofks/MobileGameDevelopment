@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dea47b23c7b39f34595780a74aa5e6f0
+timeCreated: 1502097635
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Character/StateMachineBehaviours/Player/AirborneMeleeAttackSMB.cs
+  uploadId: 518792

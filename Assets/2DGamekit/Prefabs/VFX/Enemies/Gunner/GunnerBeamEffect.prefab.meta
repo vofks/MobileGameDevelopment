@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 296b19e4ad513154e9aa7cff2f759a1e
+timeCreated: 1508855906
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/GunnerBeamEffect.prefab
+  uploadId: 518792

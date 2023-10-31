@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e1d834cd9a22d4d4783bdbdd2701b0b3
+timeCreated: 1503332196
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/Shaders/FrostedGlass.shader
+  uploadId: 518792

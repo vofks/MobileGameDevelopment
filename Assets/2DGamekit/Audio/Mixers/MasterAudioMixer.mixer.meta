@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 74cb2eead3628fa47a369c51a45d99a1
+timeCreated: 1506609022
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 24100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Audio/Mixers/MasterAudioMixer.mixer
+  uploadId: 518792

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a895c7cedf6851f4380f2a35df8d219a
+timeCreated: 1512402604
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Prefabs/Interactables/Bridge.prefab
+  uploadId: 518792

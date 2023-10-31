@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 790785ce1430b304194fd6139de35800
+timeCreated: 1509027278
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Prefabs/VFX/Enemies/Gunner/LightningFloor.prefab
+  uploadId: 518792

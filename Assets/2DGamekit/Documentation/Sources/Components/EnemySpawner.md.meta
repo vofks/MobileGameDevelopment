@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8abb862bbef43654ab6da7c5e7cb7e4a
+timeCreated: 1511974501
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Documentation/Sources/Components/EnemySpawner.md
+  uploadId: 518792

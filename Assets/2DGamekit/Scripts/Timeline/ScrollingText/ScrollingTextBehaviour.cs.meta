@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e22dad6d2a28bf54382734d5e86a6412
+timeCreated: 1504110308
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Timeline/ScrollingText/ScrollingTextBehaviour.cs
+  uploadId: 518792

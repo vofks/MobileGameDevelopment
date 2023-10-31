@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a47a94a9b3a10394ebf53e953f6fc158
+timeCreated: 1513174310
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scenes/Utilities/_TemplateScene.unity
+  uploadId: 518792

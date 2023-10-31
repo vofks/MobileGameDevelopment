@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e2455439976da458e946bfb6bdd5ad7e
+timeCreated: 1506340926
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Character/MonoBehaviours/VFXController.cs
+  uploadId: 518792

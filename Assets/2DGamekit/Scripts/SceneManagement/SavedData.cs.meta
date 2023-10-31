@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c9cd3095aceafe346bb1e58dbe85be8d
+timeCreated: 1503402399
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/SceneManagement/SavedData.cs
+  uploadId: 518792

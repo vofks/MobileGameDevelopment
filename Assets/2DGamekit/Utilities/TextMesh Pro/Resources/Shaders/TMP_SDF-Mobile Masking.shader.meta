@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bc1ede39bf3643ee8e493720e4259791
+timeCreated: 1463704911
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile
+    Masking.shader
+  uploadId: 518792

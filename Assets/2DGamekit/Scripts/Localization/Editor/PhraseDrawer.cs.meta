@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ebc41d91ea0baf642a731b878f810a98
+timeCreated: 1509376377
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Localization/Editor/PhraseDrawer.cs
+  uploadId: 518792

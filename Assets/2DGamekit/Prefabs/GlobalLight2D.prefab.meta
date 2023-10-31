@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 77213b8c908e37840bb794abb1a44914
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Prefabs/GlobalLight2D.prefab
+  uploadId: 518792

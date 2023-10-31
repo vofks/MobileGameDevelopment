@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b5e31fd0bcf463b448ce39819a3fd094
+timeCreated: 1516197692
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/UI/HUD/HealthIconLoss.anim
+  uploadId: 518792

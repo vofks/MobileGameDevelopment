@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c9228c922c5ca2c429f3adbabf70958d
+timeCreated: 1508938035
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/SceneManagement/GameObjectTeleporter.cs
+  uploadId: 518792

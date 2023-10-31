@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 302a6125f70168e44b84201f2dcab09d
+timeCreated: 1515150885
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/Animators/UI/Gunner/GunnerUIShield.controller
+  uploadId: 518792

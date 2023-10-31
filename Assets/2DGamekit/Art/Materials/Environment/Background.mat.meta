@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbde66e9603eb5148bbb4a66bed3eee4
+timeCreated: 1478877395
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Materials/Environment/Background.mat
+  uploadId: 518792

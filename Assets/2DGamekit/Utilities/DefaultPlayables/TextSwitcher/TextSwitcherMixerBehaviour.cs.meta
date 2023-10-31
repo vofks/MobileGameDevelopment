@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8a4266a3acde3c24e995780329819997
+timeCreated: 1496915579
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/DefaultPlayables/TextSwitcher/TextSwitcherMixerBehaviour.cs
+  uploadId: 518792

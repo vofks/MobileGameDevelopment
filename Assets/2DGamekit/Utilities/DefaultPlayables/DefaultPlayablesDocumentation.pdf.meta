@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e951343000f41f4994e0e36b383bd08
+timeCreated: 1499765480
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/DefaultPlayables/DefaultPlayablesDocumentation.pdf
+  uploadId: 518792

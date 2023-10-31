@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 350c9c780c05c844dacc5fd1e27a7d12
+timeCreated: 1503325580
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/UI/HealthUI.cs
+  uploadId: 518792

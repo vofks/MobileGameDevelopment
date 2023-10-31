@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 706411142e92a204590503556886c0b1
+timeCreated: 1512045471
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Documentation/Sources/Components/DamageSystem.md
+  uploadId: 518792

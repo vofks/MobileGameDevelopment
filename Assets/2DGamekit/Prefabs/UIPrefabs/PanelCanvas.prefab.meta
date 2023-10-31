@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2208ab824ba66ab4eaafed9162a13177
+timeCreated: 1505143066
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Prefabs/UIPrefabs/PanelCanvas.prefab
+  uploadId: 518792

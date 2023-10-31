@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6748d51b12d55274996f448faea07623
+timeCreated: 1504619468
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/TileMapPalettes/Tileset/TilesAlien/Tileset_Alien_Floor6.asset
+  uploadId: 518792

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 06b4fa6a8329f21499904f4d9658faa0
+timeCreated: 1505207569
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Ellen/Ellen_Melee2.anim
+  uploadId: 518792

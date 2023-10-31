@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 126be5e496339e342a1301038f2626b3
+timeCreated: 1510829556
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Documentation/Sources/Components/Sounds.md
+  uploadId: 518792

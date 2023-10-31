@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c4d9699bfa3f2d341a0e36423504e110
+timeCreated: 1510677865
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scripts/Utility/LocalTransformDuplicator.cs
+  uploadId: 518792

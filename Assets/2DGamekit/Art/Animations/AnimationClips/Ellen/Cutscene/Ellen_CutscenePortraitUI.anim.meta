@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9ce57fdbfc376bd459508e422d3ee71a
+timeCreated: 1504792902
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Ellen/Cutscene/Ellen_CutscenePortraitUI.anim
+  uploadId: 518792

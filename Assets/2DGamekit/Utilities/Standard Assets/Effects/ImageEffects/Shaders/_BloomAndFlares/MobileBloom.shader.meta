@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 68a00c837b82e4c6d92e7da765dc5f1d
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader
+  uploadId: 518792

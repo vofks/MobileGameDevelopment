@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9dc7ddfb66f7155478361b01782f2afc
+timeCreated: 1508851794
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectileParticle.mat
+  uploadId: 518792

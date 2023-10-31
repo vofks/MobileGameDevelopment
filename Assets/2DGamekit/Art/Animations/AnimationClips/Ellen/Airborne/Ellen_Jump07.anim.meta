@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b4a5fe216a0590945b1227e1d38b570e
+timeCreated: 1505296224
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Ellen/Airborne/Ellen_Jump07.anim
+  uploadId: 518792

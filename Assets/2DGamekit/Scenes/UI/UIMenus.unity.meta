@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 705f1f73151a73046842d4e4ec8f514d
+timeCreated: 1504539221
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Scenes/UI/UIMenus.unity
+  uploadId: 518792

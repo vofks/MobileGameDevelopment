@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6a8190b9dc143d64ab3322e49af85f7b
+timeCreated: 1496916563
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/DefaultPlayables/ScreenFader/ScreenFaderTrack.cs
+  uploadId: 518792

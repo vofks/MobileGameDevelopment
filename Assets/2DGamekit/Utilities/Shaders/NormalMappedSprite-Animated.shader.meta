@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 72012cb05ca3840c28fc9828efd60a7b
+timeCreated: 1500544402
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/Shaders/NormalMappedSprite-Animated.shader
+  uploadId: 518792

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6fc2e0a5f8f54a7499632d26ee58a344
+timeCreated: 1505387711
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Prefabs/Enemies/Spitter.prefab
+  uploadId: 518792

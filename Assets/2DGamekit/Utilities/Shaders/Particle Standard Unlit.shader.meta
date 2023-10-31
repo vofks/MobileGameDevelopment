@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0b9409c6fcc202446ab010864d33033e
+timeCreated: 1502898849
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/Shaders/Particle Standard Unlit.shader
+  uploadId: 518792

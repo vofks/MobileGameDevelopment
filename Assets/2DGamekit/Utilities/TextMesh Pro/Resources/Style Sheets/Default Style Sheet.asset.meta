@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f952c082cb03451daed3ee968ac6c63e
+timeCreated: 1432805430
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/TextMesh Pro/Resources/Style Sheets/Default
+    Style Sheet.asset
+  uploadId: 518792

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: afb89849ba0bcd141814c33c753a935b
+timeCreated: 1501165436
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Prefabs/VFX/Environment/Fireflies.prefab
+  uploadId: 518792

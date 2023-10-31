@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6c38d4e45a244584686f7a9563fa36df
+timeCreated: 1504776395
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Ellen/Ellen_Hurt.anim
+  uploadId: 518792

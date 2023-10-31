@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: df0db20815e8da0468e27af54c16d280
+timeCreated: 1515159445
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/UI/Gunner/GunnerShieldDefeat.anim
+  uploadId: 518792

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7cf976b5965a7db46a45d21dfee76a4a
+timeCreated: 1512402081
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Art/Animations/AnimationClips/Interactables/Bridge.anim
+  uploadId: 518792

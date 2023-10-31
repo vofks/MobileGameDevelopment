@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d2e673a6f5fd51c41870ebae6e54a2c0
+timeCreated: 1513699383
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Documentation/Sources/Components/InteractSystem.md
+  uploadId: 518792

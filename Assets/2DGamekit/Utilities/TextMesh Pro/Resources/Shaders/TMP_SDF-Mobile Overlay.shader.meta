@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a02a7d8c237544f1962732b55a9aebf1
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/2DGamekit/Utilities/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile
+    Overlay.shader
+  uploadId: 518792
