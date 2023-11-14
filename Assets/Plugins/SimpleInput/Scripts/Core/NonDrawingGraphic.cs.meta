@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c9542c931e1c82442a58750f0f44fcd8
+timeCreated: 1572698215
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/Scripts/Core/NonDrawingGraphic.cs
+  uploadId: 487954

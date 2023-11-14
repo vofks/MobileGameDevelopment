@@ -49,6 +49,8 @@ namespace Gamekit2D
         {
             public KeyCode key;
             public XboxControllerButtons controllerButton;
+            public string touchKey = "";
+
             public bool Down { get; protected set; }
             public bool Held { get; protected set; }
             public bool Up { get; protected set; }
@@ -81,10 +83,11 @@ namespace Gamekit2D
                 {(int)XboxControllerButtons.RightBumper, "Right Bumper"},
             };
 
-            public InputButton(KeyCode key, XboxControllerButtons controllerButton)
+            public InputButton(KeyCode key, XboxControllerButtons controllerButton, string k = "")
             {
                 this.key = key;
                 this.controllerButton = controllerButton;
+                this.touchKey = k;
             }
 
             public void Get(bool fixedUpdateHappened, InputType inputType)
@@ -127,9 +130,9 @@ namespace Gamekit2D
                 {
                     if (fixedUpdateHappened)
                     {
-                        Down = Input.GetKeyDown(key);
-                        Held = Input.GetKey(key);
-                        Up = Input.GetKeyUp(key);
+                        Down = Input.GetKeyDown(key) || SimpleInput.GetButtonDown(touchKey);
+                        Held = Input.GetKey(key) || SimpleInput.GetButton(touchKey);
+                        Up = Input.GetKeyUp(key) || SimpleInput.GetButtonUp(touchKey);
 
                         m_AfterFixedUpdateDown = Down;
                         m_AfterFixedUpdateHeld = Held;
@@ -137,9 +140,9 @@ namespace Gamekit2D
                     }
                     else
                     {
-                        Down = Input.GetKeyDown(key) || m_AfterFixedUpdateDown;
-                        Held = Input.GetKey(key) || m_AfterFixedUpdateHeld;
-                        Up = Input.GetKeyUp(key) || m_AfterFixedUpdateUp;
+                        Down = Input.GetKeyDown(key) || m_AfterFixedUpdateDown || SimpleInput.GetButtonDown(touchKey);
+                        Held = Input.GetKey(key) || m_AfterFixedUpdateHeld || SimpleInput.GetButton(touchKey);
+                        Up = Input.GetKeyUp(key) || m_AfterFixedUpdateUp || SimpleInput.GetButtonUp(touchKey);
 
                         m_AfterFixedUpdateDown |= Down;
                         m_AfterFixedUpdateHeld |= Held;
@@ -191,6 +194,8 @@ namespace Gamekit2D
             public KeyCode positive;
             public KeyCode negative;
             public XboxControllerAxes controllerAxis;
+            public string touchPositive;
+            public string touchNegative;
             public float Value { get; protected set; }
             public bool ReceivingInput { get; protected set; }
             public bool Enabled
@@ -212,11 +217,13 @@ namespace Gamekit2D
                 {(int)XboxControllerAxes.RightTrigger, "Right Trigger"},
             };
 
-            public InputAxis(KeyCode positive, KeyCode negative, XboxControllerAxes controllerAxis)
+            public InputAxis(KeyCode positive, KeyCode negative, XboxControllerAxes controllerAxis, string touchPositive = "", string touchNegative = "")
             {
                 this.positive = positive;
                 this.negative = negative;
                 this.controllerAxis = controllerAxis;
+                this.touchPositive = touchPositive;
+                this.touchNegative = touchNegative;
             }
 
             public void Get(InputType inputType)
@@ -241,8 +248,8 @@ namespace Gamekit2D
                 }
                 else if (inputType == InputType.MouseAndKeyboard)
                 {
-                    positiveHeld = Input.GetKey(positive);
-                    negativeHeld = Input.GetKey(negative);
+                    positiveHeld = Input.GetKey(positive) || SimpleInput.GetButton(touchPositive);
+                    negativeHeld = Input.GetKey(negative) || SimpleInput.GetButton(touchNegative); 
                 }
 
                 if (positiveHeld == negativeHeld)

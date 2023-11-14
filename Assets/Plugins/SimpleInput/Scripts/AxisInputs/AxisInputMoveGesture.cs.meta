@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 842273f6b4c7e2c499cb78e039baf07c
+timeCreated: 1602529287
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputMoveGesture.cs
+  uploadId: 487954

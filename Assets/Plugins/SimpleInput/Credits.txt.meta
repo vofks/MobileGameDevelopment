@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23bd993e6f5562348b23a3b7550cc6dd
+timeCreated: 1504351925
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/Credits.txt
+  uploadId: 487954

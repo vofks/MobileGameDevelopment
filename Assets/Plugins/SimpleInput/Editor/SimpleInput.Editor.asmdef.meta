@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97ed55e29de56d949952fd77c47a4695
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/Editor/SimpleInput.Editor.asmdef
+  uploadId: 487954

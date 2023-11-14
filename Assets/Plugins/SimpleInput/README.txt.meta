@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b75b1192eaae08459d581ac845ba27d
+timeCreated: 1562481652
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/README.txt
+  uploadId: 487954
