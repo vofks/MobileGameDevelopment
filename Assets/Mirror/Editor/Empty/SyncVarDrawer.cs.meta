@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 874812594431423b84f763b987ff9681
+timeCreated: 1632553007
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Editor/Empty/SyncVarDrawer.cs
+  uploadId: 606319

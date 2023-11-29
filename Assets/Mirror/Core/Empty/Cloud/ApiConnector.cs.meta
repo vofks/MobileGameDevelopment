@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8bdb99a29e179d14cb0acc43f175d9ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Core/Empty/Cloud/ApiConnector.cs
+  uploadId: 606319

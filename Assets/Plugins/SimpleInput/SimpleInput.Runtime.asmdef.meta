@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 16a35b22bcb3d68408bec3de04e2d6ca
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/SimpleInput.Runtime.asmdef
+  uploadId: 487954

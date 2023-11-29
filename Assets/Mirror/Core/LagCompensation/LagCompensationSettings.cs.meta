@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fa80bec245f94bf8a28ec78777992a1c
+timeCreated: 1687920412
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Core/LagCompensation/LagCompensationSettings.cs
+  uploadId: 606319

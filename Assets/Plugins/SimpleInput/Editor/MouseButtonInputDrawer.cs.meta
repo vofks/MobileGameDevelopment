@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a109724b706e596419d6a7ff4c2a9e46
+timeCreated: 1520266844
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/Editor/MouseButtonInputDrawer.cs
+  uploadId: 487954

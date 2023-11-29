@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 437b89bd23a4f4265a2a34e7bbcd5c43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Examples/TanksCoop/Scripts/RandomColor.cs
+  uploadId: 606319

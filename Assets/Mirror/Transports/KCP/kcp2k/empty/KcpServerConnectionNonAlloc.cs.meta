@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4e1b74cc224b4c83a0f6c8d8da9090ab
+timeCreated: 1626430608
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Transports/KCP/kcp2k/empty/KcpServerConnectionNonAlloc.cs
+  uploadId: 606319

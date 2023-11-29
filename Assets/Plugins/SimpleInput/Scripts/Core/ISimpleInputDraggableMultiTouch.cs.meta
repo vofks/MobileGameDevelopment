@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 542cc28fca7a01e4c94bec265ff28589
+timeCreated: 1504728399
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/Scripts/Core/ISimpleInputDraggableMultiTouch.cs
+  uploadId: 487954

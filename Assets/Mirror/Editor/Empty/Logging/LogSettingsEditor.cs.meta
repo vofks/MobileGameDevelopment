@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8f4ecb3d81ce9ff44b91f311ee46d4ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Editor/Empty/Logging/LogSettingsEditor.cs
+  uploadId: 606319

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c7c472a3ea1bc4348bd5a0b05bf7cc3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Core/Empty/Cloud/Events.cs
+  uploadId: 606319

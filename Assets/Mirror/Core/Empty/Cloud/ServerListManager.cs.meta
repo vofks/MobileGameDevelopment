@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bfc354d4a7f63ca45a653bf5d479afa0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Core/Empty/Cloud/ServerListManager.cs
+  uploadId: 606319

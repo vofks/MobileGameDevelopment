@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4f3445268e45d437fac325837aff3246
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Editor/Weaver/Empty/SyncListProcessor.cs
+  uploadId: 606319

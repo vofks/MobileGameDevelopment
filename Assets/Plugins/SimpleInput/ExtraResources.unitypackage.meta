@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2977ea9c52e9824688491c7c6d3f490
+timeCreated: 1562488060
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/ExtraResources.unitypackage
+  uploadId: 487954

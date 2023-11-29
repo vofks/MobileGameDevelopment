@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5fe76d8874b5ab349a260c69ea0dece9
+timeCreated: 1504353086
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/Prefabs/SteeringWheel.prefab
+  uploadId: 487954

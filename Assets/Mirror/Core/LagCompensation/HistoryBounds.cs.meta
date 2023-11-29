@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ca9ea58b98a34f73801b162cd5de724e
+timeCreated: 1690172331
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Core/LagCompensation/HistoryBounds.cs
+  uploadId: 606319

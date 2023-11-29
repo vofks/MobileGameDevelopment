@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cfaa626443cc7c94eae138a2e3a04d7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Core/Empty/Cloud/RequestCreator.cs
+  uploadId: 606319

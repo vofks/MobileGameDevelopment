@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d9dd336b25bf97b4abc19bbfb79b9c2a
+timeCreated: 1505062555
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113033
+  packageName: Simple Input System
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/SimpleInput/Example/ExamplePlayerController.cs
+  uploadId: 487954

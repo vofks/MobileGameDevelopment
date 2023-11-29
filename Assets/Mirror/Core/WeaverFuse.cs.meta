@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4de3dfbcbd2e41fcac947c04bcac52c9
+timeCreated: 1686319660
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Core/WeaverFuse.cs
+  uploadId: 606319

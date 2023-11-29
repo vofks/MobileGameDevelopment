@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fd67b3f7c2d66074a9bc7a23787e2ffb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 129321
+  packageName: Mirror
+  packageVersion: 81.4.0
+  assetPath: Assets/Mirror/Editor/Weaver/Empty/GenericArgumentResolver.cs
+  uploadId: 606319
